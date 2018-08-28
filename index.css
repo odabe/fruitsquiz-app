@@ -12,7 +12,7 @@ body{
 }
 
 button{
-  background-color: #FFC428 ; 
+  background-color: rgb(255, 192, 57); 
   font-family: 'Amatic SC', cursive;
   color: white;
   font-size: 30px;
